@@ -13,7 +13,8 @@ The privacy policy is available at: `index.html`
 ## Hosting
 
 This privacy policy is hosted on GitHub Pages and can be accessed at:
-`https://hritik-agarwal.github.io/tabjoy-privacy-policy/`
+
+[https://hritik-agarwal.github.io/tabjoy-privacy-policy/](https://hritik-agarwal.github.io/Tab-Joy-Privacy-Policy/)
 
 ## Contact
 
